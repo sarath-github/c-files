@@ -2,3 +2,5 @@ c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\bin\Debug\cmd2.exe
 c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\bin\Debug\cmd2.pdb
 c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\obj\x86\Debug\cmd2.exe
 c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\obj\x86\Debug\cmd2.pdb
+C:\Users\user\Documents\git_test\c#files\cmd2\cmd2\obj\x86\Debug\cmd2.exe
+C:\Users\user\Documents\git_test\c#files\cmd2\cmd2\obj\x86\Debug\cmd2.pdb
