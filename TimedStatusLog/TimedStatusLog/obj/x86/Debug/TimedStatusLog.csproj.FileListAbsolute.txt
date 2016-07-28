@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\TimedStatusLog\TimedStatusLog\bin\Debug\TimedStatusLog.exe
+c:\users\user\documents\visual studio 2010\Projects\TimedStatusLog\TimedStatusLog\bin\Debug\TimedStatusLog.pdb
+c:\users\user\documents\visual studio 2010\Projects\TimedStatusLog\TimedStatusLog\obj\x86\Debug\TimedStatusLog.exe
+c:\users\user\documents\visual studio 2010\Projects\TimedStatusLog\TimedStatusLog\obj\x86\Debug\TimedStatusLog.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\TimedStatusLog\TimedStatusLog\obj\x86\Debug\TimedStatusLog.csprojResolveAssemblyReference.cache

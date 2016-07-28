@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\bin\Debug\MyNewService5.exe
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\bin\Debug\MyNewService5.pdb
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\obj\x86\Debug\MyNewService5.exe
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\obj\x86\Debug\MyNewService5.pdb

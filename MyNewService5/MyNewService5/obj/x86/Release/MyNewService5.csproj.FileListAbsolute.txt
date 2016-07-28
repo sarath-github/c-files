@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\bin\Release\MyNewService5.exe
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\bin\Release\MyNewService5.pdb
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\obj\x86\Release\MyNewService5.ProjectInstaller.resources
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\obj\x86\Release\MyNewService5.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\obj\x86\Release\MyNewService5.exe
+c:\users\user\documents\visual studio 2010\Projects\MyNewService5\MyNewService5\obj\x86\Release\MyNewService5.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\MyNewService5\MyNewService5\bin\Release\MyNewService5.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\MyNewService5\MyNewService5\bin\Release\log4net.dll

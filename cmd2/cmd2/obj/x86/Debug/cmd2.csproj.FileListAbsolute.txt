@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\bin\Debug\cmd2.exe
+c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\bin\Debug\cmd2.pdb
+c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\obj\x86\Debug\cmd2.exe
+c:\users\user\documents\visual studio 2010\Projects\cmd2\cmd2\obj\x86\Debug\cmd2.pdb
